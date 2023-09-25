@@ -4,7 +4,7 @@
 <div style="display: inline_block"  >
 <p> - 👨‍💻  Graduada em Sistema de Informação. </p>
 <p> - 👨‍🎓 ...</p>
-<p> - 🎯 Interesse: Java, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
+<p> - 🎯 Interesse: Java, Python, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, SQL Server, MySql, MongoDB, PostegreSQL, AWS e Docker . </p>
 <hr>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
